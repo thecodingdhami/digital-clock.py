@@ -12,7 +12,8 @@
   <h2>📸 Screenshot</h2>
   <p>
     <br>
-    <code>![Digital Clock Screenshot](screenshot.png)</code>
+    <img src="Digital%20Clock/screenshot.png" alt="Digital Clock Screenshot" width="600">
+
   </p>
 
   <hr>
