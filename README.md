@@ -36,7 +36,7 @@
 
   <hr>
 
-  <h2>🧠 How It Works</h2>
+  <h2>🧠 Working </h2>
   <p>
     The clock uses Python’s <code>strftime()</code> function to get the current time and date.
     The display updates every 1000 milliseconds (1 second) using Tkinter’s <code>after()</code> method.
