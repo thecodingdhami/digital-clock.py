@@ -3,7 +3,7 @@
   <h1>🕒 Digital Clock</h1>
 
   <p>
-    A <strong>simple yet elegant digital clock</strong> built using <strong>Python (Tkinter)</strong>.<br>
+    A <strong>simple digital clock</strong> built using <strong>Python (Tkinter)</strong>.<br>
     It displays the current <strong>time (HH:MM:SS)</strong> and <strong>date</strong> in real-time, updating every second.
   </p>
 
